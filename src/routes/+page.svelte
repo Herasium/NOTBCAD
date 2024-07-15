@@ -21,9 +21,10 @@
 <div id="container">
   <img src={logo} id="logo" />
   <div id="text">
-    I have been working on a new project to take over Blockcoin because Blockcoin is now dead and S4IL doesn't have the capacity to do anything about it. I doubt that Flux will finish everything by himself. So, instead of throwing the codebase into the trashcan, I'm using it for another project named <strong>NOT BC™</strong> (that's a joke, you'll get the real name later). I will put the Discord link here when it's ready. Have a good day. #Hera
+    YaY Discord Link !! #Hera
   </div>
-  <a href="https://beta.blockcoin.social" id="button">I don't give a fuck, give me back my Blockcoin!!!!!!!11!1!1</a> 
+  <z href="https://discord.gg/xhNNAJKfzq" class="button">My New Discord !</a>
+  <a href="https://beta.blockcoin.social" class="button">I don't give a fuck, give me back my Blockcoin!!!!!!!11!1!1</a> 
 </div>
 
 <style>
@@ -38,7 +39,7 @@
     font-family: "JetBrains Mono", monospace;
   }
 
-  #button {
+  .button {
     z-index:3;
     margin: 10px;
     font-size: 20px;

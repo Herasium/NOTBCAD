@@ -4,9 +4,9 @@
   <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap" rel="stylesheet">
   <meta property="og:type" content="website" />
     <meta property="og:url" content="https://blockcoin.social" />
-    <meta property="og:description" content="Wait, something has changed ?" />
-    <meta name="theme-color" content="#BCBCBC" />
-    <meta name="description" content="Wait, something has changed ?" />
+    <meta property="og:description" content="Wait, something has changed again ????" />
+    <meta name="theme-color" content="#000000" />
+    <meta name="description" content="Wait, something has changed again ????" />
 </svelte:head>
 
 

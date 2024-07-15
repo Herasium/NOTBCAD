@@ -23,7 +23,7 @@
   <div id="text">
     YaY Discord Link !! #Hera
   </div>
-  <z href="https://discord.gg/xhNNAJKfzq" class="button">My New Discord !</a>
+  <a href="https://discord.gg/xhNNAJKfzq" class="button">My New Discord !</a>
   <a href="https://beta.blockcoin.social" class="button">I don't give a fuck, give me back my Blockcoin!!!!!!!11!1!1</a> 
 </div>
 
